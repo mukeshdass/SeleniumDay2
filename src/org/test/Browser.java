@@ -28,6 +28,8 @@ public class Browser {
 			WebElement element = options.get(i);
 			//if(i % 2 != 0) { // odd number // even number if(i % 2 == 0)
 			System.out.println(element.getText());
+			System.out.println();
+			System.out.println();
 		}
 
 		}
